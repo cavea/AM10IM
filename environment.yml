@@ -1,6 +1,5 @@
 name: example-environment
 channels:
-  - conda-forge
+  - pchrapka
 dependencies:
-  - python
-  - octave_kernel
+  - matlab_kernel
