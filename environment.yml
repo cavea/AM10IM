@@ -1,5 +1,2 @@
-name: example-environment
-channels:
-  - pchrapka
 dependencies:
-  - matlab_kernel
+- octave_kernel
